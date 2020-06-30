@@ -4,5 +4,6 @@
   "mainClass": "de.crazy.sendserveraddon.SendServerAddon",
   "version": 1,
   "author": "CrazySchnetzler1",
-  "category": 2
+  "category": 2,
+  "icon": "https://crazyschnetzler1.github.io/images/addons/SendServerAddon.png"
 }
